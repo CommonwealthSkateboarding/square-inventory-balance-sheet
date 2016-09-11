@@ -1,7 +1,7 @@
 var parse = require('csv-parse/lib/sync');
 var fs = require('fs');
 
-var maxItemVariations = 77;
+var maxItemVariations = 100;
 var skuKey = 'SKU (do not edit)';
 var quantityKey = 'Current Quantity (do not edit)';
 var itemIdKey = 'Item ID';

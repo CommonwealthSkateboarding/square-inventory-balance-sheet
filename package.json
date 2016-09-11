@@ -1,10 +1,10 @@
 {
   "name": "square-inventory-balance-sheet",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Parse Square inventory CSVs to produce value of inventory for a balance sheet",
   "keywords": ["square", "csv", "inventory", "balance sheet"],
-  "homepage": "TBD",
-  "bugs": "TBD",
+  "homepage": "https://github.com/CommonwealthSkateboarding/square-inventory-balance-sheet",
+  "bugs": "https://github.com/CommonwealthSkateboarding/square-inventory-balance-sheet/issues",
   "author": "Colin Delargy <colin.delargy@gmail.com>",
   "contributors": [
     "Colin Delargy <colin.delargy@gmail.com>"
@@ -12,7 +12,7 @@
   "license": "TBD",
   "repository": {
     "type": "git",
-    "url": "TBD"
+    "url": "https://github.com/CommonwealthSkateboarding/square-inventory-balance-sheet.git"
   },
   "dependencies": {
     "csv-parse": "^1.1.0"
