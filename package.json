@@ -1,0 +1,23 @@
+{
+  "name": "square-inventory-balance-sheet",
+  "version": "0.0.1",
+  "description": "Parse Square inventory CSVs to produce value of inventory for a balance sheet",
+  "keywords": ["square", "csv", "inventory", "balance sheet"],
+  "homepage": "TBD",
+  "bugs": "TBD",
+  "author": "Colin Delargy <colin.delargy@gmail.com>",
+  "contributors": [
+    "Colin Delargy <colin.delargy@gmail.com>"
+  ],
+  "license": "TBD",
+  "repository": {
+    "type": "git",
+    "url": "TBD"
+  },
+  "dependencies": {
+    "csv-parse": "^1.1.0"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "scripts": {}
+}
